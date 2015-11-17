@@ -1,2 +1,3 @@
 # hello-world
-Just snother Repository
+Just another Repository
+i'm new on gitgub. 
